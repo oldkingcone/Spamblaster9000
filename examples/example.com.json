@@ -1,0 +1,10 @@
+{
+  "target_url": "https://httpbin.org/anything",
+  "target_method": "POST",
+  "target_body": {
+    "foo": "bar"
+  },
+  "target_headers": {
+    "Content-Type": "application/json"
+  }
+}
